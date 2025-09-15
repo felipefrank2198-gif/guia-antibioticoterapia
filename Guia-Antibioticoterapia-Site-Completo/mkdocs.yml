@@ -1,0 +1,20 @@
+site_name: Guia Definitivo de Antibioticoterapia
+theme:
+  name: material
+  language: pt
+nav:
+  - Início: index.md
+  - Como usar: como-usar.md
+  - Protocolos por Sistema:
+      - Respiratório: sistemas/respiratorio.md
+      - Urinário: sistemas/urinario.md
+      - Gastrointestinal: sistemas/gastrointestinal.md
+      - SNC (Sistema Nervoso Central): sistemas/snc.md
+      - Pele & Partes Moles: sistemas/ppmm.md
+      - Cardiovascular: sistemas/cardiovascular.md
+      - Otorrinolaringologia (ORL): sistemas/orl.md
+      - Ginecologia & Obstetrícia: sistemas/gineco-obstetricia.md
+      - Ortopedia (Osteoarticular): sistemas/ortopedia.md
+      - Sistêmicas/Imunossuprimidos: sistemas/sistemicas-imuno.md
+      - Oftalmologia infecciosa: sistemas/oftalmo.md
+      - Odontogênicas: sistemas/odontogenicas.md
